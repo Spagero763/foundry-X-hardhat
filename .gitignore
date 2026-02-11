@@ -1,0 +1,16 @@
+# Ignore environment variable files
+.env
+*.env
+# Node modules
+node_modules/
+# Build output
+artifacts/
+build/
+dist/
+cache/
+# Hardhat/Foundry specific
+broadcast/
+coverage/
+*.log
+# VSCode
+.vscode/
