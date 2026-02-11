@@ -1,8 +1,8 @@
-#contract address foundry
+# Contract address foundry
 LISK TESTNET:0x0bBbb17f13a17Cca36441b4A7bFA44Ca34338F6B
 ARC TESTNET:0x0bBbb17f13a17Cca36441b4A7bFA44Ca34338F6B
 
 
-#contract address hardhat
+# Contract address hardhat
 LISK TESTNET:0x0616a5C8e5c42102B5399a51bb8882178c407e40
 ARC TESTNET:0x0616a5C8e5c42102B5399a51bb8882178c407e40
